@@ -5,6 +5,8 @@ Criando sistemas responsivos e escaláveis com boas práticas de código como SO
 - 💻 Minhas habilidades:
 - Angular | Typescript | Javascript | HTML 5| CSS3 | Git | GitFLow | API's Rest | CI/CD | Angular Material | I.A
 
-- 🌱 Conheça alguns de meus trabalhos pessoais logo abaixo:
+- 🌱 Meu último projeto com Angular 20:
+https://github.com/Joao-Sena/catalogo-motos
+
 - LinkedIn: https://www.linkedin.com/in/joaovscardoso/
 - 📫 Contato: joaosena.contato@gmail.com
